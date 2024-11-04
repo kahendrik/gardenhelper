@@ -1,5 +1,5 @@
 script_name("Garden Helper")
-script_verison("04.11.2024")
+script_version("04.11.2024")
 script_author("kahendrik")
 script_properties("work-in-pause")
 require("lib.moonloader")
