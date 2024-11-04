@@ -1,2 +1,3 @@
-# gardenhelper
-gardenhelper for rodina rp
+# Garden Helper
+
+Это страница для автообновления, вам тут делать нечего :)
